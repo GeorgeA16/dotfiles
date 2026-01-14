@@ -60,6 +60,7 @@ brew "superfile"
 brew "zoxide"
 
 # Cask tools
+cask "claude"
 cask "discord"
 cask "dockdoor"
 cask "firefox"
